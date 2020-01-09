@@ -1,2 +1,2 @@
 # data-science
-Repo for Intro to Data Science in Python
+Repo for Python Bootcamp course on Udemy
